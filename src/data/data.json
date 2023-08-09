@@ -1,0 +1,44 @@
+[
+    {
+        "id":0,
+        "name":"abacavir",
+        "price":1000,
+        "company":"Kivexa",
+        "qty":0
+    },
+    {
+        "id":1,
+        "name":"abaloparatide injection",
+        "price":1500,
+        "company":"Tymlos",
+        "qty":0
+    },
+    {
+        "id":2,
+        "name":"abatacept",
+        "price":2000,
+        "company":"Orencia",
+        "qty":0
+    },
+    {
+        "id":3,
+        "name":"aripiprazole",
+        "price":999,
+        "company":"Abilify",
+        "qty":0
+    },
+    {
+        "id":4,
+        "name":"Acrivastine",
+        "price":599,
+        "company":"Benadryl",
+        "qty":0
+    },
+    {
+        "id":5,
+        "name":"Betahistine",
+        "price":500,
+        "company":"Serc",
+        "qty":0
+    }
+]
